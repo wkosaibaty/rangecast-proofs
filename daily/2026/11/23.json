@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "period": "2026-11-23",
+  "leaves": 1170,
+  "root": "176e34271f1201994939210ff772da1cb01c83d7c73f8f3610da1c3ae28c9879",
+  "first_issued_at": "2026-11-23T09:00:00Z",
+  "last_issued_at": "2026-11-23T23:00:00Z",
+  "hours": [
+    {
+      "hour": "T09",
+      "leaves": 60,
+      "root": "49a472893ee9c2afa4d8f26f1a510153205c1f04c1ec0d3f8440f0120e80edf8"
+    },
+    {
+      "hour": "T10",
+      "leaves": 60,
+      "root": "e7264e6d62e4154d9a71e80360a7cb5aee39826837dc0224a8c673a4adffa53c"
+    },
+    {
+      "hour": "T11",
+      "leaves": 60,
+      "root": "1d2f13a5c4484a6718dc6380701d44e3997caac926fb66ea7c568e18984c7b9e"
+    },
+    {
+      "hour": "T12",
+      "leaves": 150,
+      "root": "288145fa70a860f9827cbcfb2313812775e6e20ed5fec675d8af0fe9dc170186"
+    },
+    {
+      "hour": "T13",
+      "leaves": 60,
+      "root": "f4416f9714063252d3d97a7d61cd6ffa2693469449e7442d1c20bc950550e57e"
+    },
+    {
+      "hour": "T14",
+      "leaves": 60,
+      "root": "e5c2c1c0cf03028c79ffa4c25822f3a29d513ff14f3b7d61be1eb3746449c816"
+    },
+    {
+      "hour": "T15",
+      "leaves": 60,
+      "root": "141b4484ebf27a497ec9a87679328cc6a51cd386ee5ed80673377572654f5b9a"
+    },
+    {
+      "hour": "T16",
+      "leaves": 150,
+      "root": "1af419aead1c59f006ce33eb10b3cd47e04545fbbbae0a20fe64434c7d71f831"
+    },
+    {
+      "hour": "T17",
+      "leaves": 60,
+      "root": "8d42e6ba5cd10f77e01fa5e80ee9c17153d345f358d24bbd17381d440a1bd990"
+    },
+    {
+      "hour": "T18",
+      "leaves": 60,
+      "root": "0e92e60678feeb265c41883e95dd351e72b733c0b3f2a1a185b21a9c40500c7b"
+    },
+    {
+      "hour": "T19",
+      "leaves": 60,
+      "root": "eb17fb774450200c7a309d60316e904616b8152dcab8ba4da90efca6ce240c20"
+    },
+    {
+      "hour": "T20",
+      "leaves": 150,
+      "root": "8a6a31ef28b568a46a609a7521514e56533cef53da8796a6053b31a991029622"
+    },
+    {
+      "hour": "T21",
+      "leaves": 60,
+      "root": "44afcadbe8ce6b9ddab314644423cd5e52e3cf319cfdf7e3095ffa8a00398b6b"
+    },
+    {
+      "hour": "T22",
+      "leaves": 60,
+      "root": "a578b5fd8aaf55cf9c1bdb474f73689f4e7e509c5693a948d8f5735ba0db6473"
+    },
+    {
+      "hour": "T23",
+      "leaves": 60,
+      "root": "b46c223144b938e86283eaef1020bbcec23103044d925ffd2f21f9a50bcc9b12"
+    }
+  ]
+}

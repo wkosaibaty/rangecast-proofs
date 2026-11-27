@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "kind": "hourly",
+  "period": "2026-11-27T06:00:00Z",
+  "leaves": 60,
+  "root": "78b2dcf038b30ca965c0edce44eef1e8c784ab71bea6235cc05092fbc2d66584",
+  "first_issued_at": "2026-11-27T06:00:00Z",
+  "last_issued_at": "2026-11-27T06:00:00Z"
+}
